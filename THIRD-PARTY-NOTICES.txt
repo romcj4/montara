@@ -1,0 +1,54 @@
+Montara — third-party notices
+================================
+
+Montara application code
+------------------------
+
+The Montara application itself is proprietary software. See the LICENSE file
+for the terms that apply to the application. The application is not licensed
+under GPLv3.
+
+The GPLv3 text in LICENSES/GPL-3.0.txt is present because Qt is also offered
+under GPLv3 by its copyright holder; it does not apply to the Montara
+application unless a separate written license says so.
+
+Qt / PySide6
+------------
+
+This application uses Qt 6 (via PySide6 and shiboken6), which is available
+under the GNU Lesser General Public License version 3 (LGPLv3), the GNU
+General Public License version 3 (GPLv3), or a commercial Qt license.
+
+The Qt libraries are dynamically linked and shipped as separate DLL files in
+the PySide6 folder next to the application. They are not statically linked
+into Montara.exe. You may replace the Qt DLLs with compatible Qt 6 libraries
+of the same ABI/version, subject to the terms of the applicable license.
+
+Qt source code and license information:
+  https://www.qt.io/licensing
+  https://code.qt.io/cgit/qt/
+  https://download.qt.io/official_releases/qt/6.12/
+
+The full LGPLv3 and GPLv3 texts are included in the LICENSES folder:
+  LICENSES/LGPL-3.0.txt
+  LICENSES/GPL-3.0.txt
+
+PySide6 and shiboken6 are part of the Qt for Python project and are covered
+by the same Qt licensing options.
+
+Other components
+----------------
+
+- Python and PyInstaller: see the respective Python/PyInstaller licenses.
+- Rust crates used by the native renderer: see Cargo.lock and each crate's
+  license in the Rust distribution.
+- OpenStreetMap data and tiles: © OpenStreetMap contributors, ODbL 1.0,
+  https://www.openstreetmap.org/copyright.
+- Esri World Imagery: © Esri and contributors, subject to Esri's terms.
+- Google Maps imagery (if a Google API key is configured): subject to
+  Google Maps Platform terms.
+- Terrarium DEM tiles: Mapzen/Terrarium data, subject to the applicable
+  terms of the elevation-tiles-prod dataset.
+
+No Qt source code is modified by this distribution. If you redistribute this
+application, keep these notices and the LICENSES folder with the binaries.
