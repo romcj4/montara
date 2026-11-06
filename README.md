@@ -4,6 +4,5 @@
 ![Preview](preview.png)
 ![Preview](matterhorn.png)
 **Taking care of every pixel**
-![Load](load.png)
 **Ability to use OopenStreetMap for 3D**
 ![Osm](osm.png)
