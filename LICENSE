@@ -1,0 +1,98 @@
+MONTARA PROPRIETARY SOFTWARE LICENSE
+====================================
+
+Copyright (c) 2026 Montara. All rights reserved.
+
+This is a proprietary license, not an open-source license. The Software is
+licensed, not sold.
+
+1. DEFINITIONS
+
+"Software" means the Montara application, including its executable files,
+compiled QML resources, native libraries, documentation and any updates
+provided by the Licensor, but excluding third-party components listed in
+THIRD-PARTY-NOTICES.txt.
+
+"Licensor" means the copyright holder of the Software.
+
+2. LICENSE GRANT
+
+Subject to the terms of this License, the Licensor grants you a limited,
+non-exclusive, non-transferable, revocable license to install and use the
+Software on devices that you own or control, for personal use or for internal
+business purposes.
+
+3. RESTRICTIONS
+
+Except as expressly permitted by this License, by applicable mandatory law, or
+by a third-party license covering a third-party component, you may not:
+
+  a) copy, distribute, publish, sublicense, rent, lease, lend or sell the
+     Software or any part of it;
+  b) modify, adapt, translate or create derivative works of the Software;
+  c) reverse engineer, decompile, disassemble or otherwise attempt to derive
+     the source code or algorithms of the Software;
+  d) remove, obscure or alter any copyright, trademark, license or proprietary
+     notice;
+  e) use the Software to provide a competing product or service, or make the
+     Software available to third parties as a service, without a separate
+     written agreement with the Licensor.
+
+You may make a reasonable number of backup copies for your own use, provided
+that all copies contain this License and all notices.
+
+4. THIRD-PARTY COMPONENTS
+
+The Software includes third-party components, including Qt 6 and PySide6.
+Those components are licensed separately under their own terms, as described
+in THIRD-PARTY-NOTICES.txt and the LICENSES folder. Their licenses prevail over
+this License for those components.
+
+In particular, Qt/PySide6 are used under the GNU Lesser General Public License
+version 3 (LGPLv3). Nothing in this License restricts the rights granted to you
+by the LGPLv3 for the Qt/PySide6 components, including the right to replace the
+Qt DLLs with compatible versions and to reverse engineer those components
+solely as necessary to debug your modifications, to the extent permitted by the
+LGPLv3. The GPLv3 text included in the LICENSES folder is provided because Qt
+is also offered under GPLv3 by its copyright holder; it does not make the
+Montara application itself GPLv3.
+
+5. OWNERSHIP
+
+The Software is licensed, not sold. The Licensor retains all right, title and
+interest in and to the Software, including all intellectual property rights.
+All rights not expressly granted are reserved.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. THE LICENSOR
+DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE OR FREE OF
+HARMFUL COMPONENTS.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE
+DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE OR BUSINESS INTERRUPTION,
+ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES. THE LICENSOR'S TOTAL AGGREGATE LIABILITY
+UNDER THIS LICENSE SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE, IF
+ANY.
+
+8. TERMINATION
+
+This License terminates automatically if you breach any of its terms. Upon
+termination you must stop using the Software and delete all copies in your
+possession or control. Sections 3 through 9 survive termination.
+
+9. MISCELLANEOUS
+
+This License is governed by the laws applicable in the country in which the
+Licensor has its principal place of business, without regard to conflict-of-law
+rules. If any provision is held unenforceable, the remaining provisions remain
+in full force. This License, together with the third-party notices and licenses
+referenced above, is the entire agreement regarding the Software.
+
+If you do not agree to these terms, do not install or use the Software.
